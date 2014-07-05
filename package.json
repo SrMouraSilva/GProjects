@@ -1,0 +1,21 @@
+{
+  "name": "GProject",
+  "version": "0.0.1",
+  "description": "A simple viewer projects for your htdocs.",
+  "keywords": [],
+  "homepage": "",
+  "bugs": {
+    "url" : "https://github.com/SrMouraSilva"
+  },
+  "author": {
+    "name": "Paulo Mateus",
+    "email": "",
+    "url": "http://srmourasilva.github.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SrMouraSilva/GProject"
+  },
+  "devDependencies": {},
+  "engines": {}
+}
