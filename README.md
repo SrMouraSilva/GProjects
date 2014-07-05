@@ -3,7 +3,7 @@ GProjects
 
 A simple viewer projects for your htdocs
 
-![My index project](https://raw.githubusercontent.com/SrMouraSilva/GProject/master/doc/image.png)
+![My index project](https://raw.githubusercontent.com/SrMouraSilva/GProject/master/doc/GProject.png)
 
 About
 -----
